@@ -1,0 +1,1 @@
+// Autenticação (token, sessão, papel)

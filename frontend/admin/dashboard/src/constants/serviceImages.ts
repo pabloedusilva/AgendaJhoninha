@@ -1,0 +1,35 @@
+/**
+ * Available service images from public/assets/images/services
+ * These images are predefined and can be selected when creating or editing a service
+ */
+export const SERVICE_IMAGES = [
+  '/assets/images/services/servico-cabelo-preto.jpg',
+  '/assets/images/services/servico-barba-preto.jpg',
+  '/assets/images/services/servico-sobrancelha-preto.jpg',
+  '/assets/images/services/servico-maquina-preto.jpg',
+  '/assets/images/services/servico-corte2-preto.jpg',
+  '/assets/images/services/servico-corte-infantil-preto.jpg',
+  '/assets/images/services/servico-corte1-preto.jpg',
+  '/assets/images/services/servico-corte3-preto.jpg',
+  '/assets/images/services/servico-corte4-preto.jpg',
+  '/assets/images/services/servico-cabelo-branco.jpg',
+  '/assets/images/services/servico-barba-branco.jpg',
+  '/assets/images/services/servico-sobrancelha-branco.jpg',
+  '/assets/images/services/servico-cabelo-azul.jpg',
+  '/assets/images/services/servico-cabelo-rosa.jpg',
+  '/assets/images/services/servico-cabelo-vermelho.jpg',
+  '/assets/images/services/servico-corte-azul.jpg',
+  '/assets/images/services/servico-corte-rosa.jpg',
+  '/assets/images/services/servico-corte-vermelho.jpg',
+  '/assets/images/services/servico-bigode-branco.jpg',
+  '/assets/images/services/servico-bigode-preto.jpg',
+  '/assets/images/services/servico-corte-2-branco.jpg',
+  '/assets/images/services/servico-corte-branco.jpg',
+  '/assets/images/services/servico-corte-infantil-branco.jpg',
+  '/assets/images/services/servico-corte1-branco.jpg',
+  '/assets/images/services/servico-corte3-branco.jpg',
+  '/assets/images/services/servico-corte4-branco.jpg',
+  '/assets/images/services/servico-maquina-branco.jpg',
+  '/assets/images/services/servico-tesoura-branco.jpg',
+  '/assets/images/services/servico-tesoura-preto.jpg',
+] as const
